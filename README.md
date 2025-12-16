@@ -1,5 +1,5 @@
 # 🌟 Alex Muthenya
-<br><br>I’m a student and an aspiring software engineer. I love building projects that solve real problems and exploring new technologies in web development.<br><br>Currently, I’m diving deep into:<br><br>Backend: Node.js, Express, Spring Boot<br><br>Frontend: Next.js, Tailwind CSS<br><br>Other: API security testing, API pentesting, Git, databases<br><br><br>When I’m not coding, I enjoy playing chess and learning about algorithms.<br>I also love Mathematics - especially pure math.
+I’m a student and an aspiring software engineer. I love building projects that solve real problems and exploring new technologies in web development.<br><br>Currently, I’m diving deep into:<br><br>Backend: Node.js, Express, Spring Boot<br><br>Frontend: Next.js, Tailwind CSS<br><br>Other: API security testing, API pentesting, Git, databases<br><br><br>When I’m not coding, I enjoy playing chess and learning about algorithms.<br>I also love Mathematics - especially pure math.
 
 
 ## 🌐 Socials:
@@ -16,3 +16,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alexmuthenya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexmuthenya&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117)
+  
+</div>
