@@ -1,4 +1,5 @@
-<br>Hey there! I’m Alex 👋<br><br>I’m a student and an aspiring software engineer. I love building projects that solve real problems and exploring new technologies in web development.<br><br>Currently, I’m diving deep into:<br><br>Backend: Node.js, Express, Spring Boot<br><br>Frontend: Next.js, Tailwind CSS<br><br>Other: API security testing, API pentesting, Git, databases<br><br><br>When I’m not coding, I enjoy playing chess and learning about algorithms.<br>I also love Mathematics - especially pure math.
+# 🌟 Alex Muthenya
+<br><br>I’m a student and an aspiring software engineer. I love building projects that solve real problems and exploring new technologies in web development.<br><br>Currently, I’m diving deep into:<br><br>Backend: Node.js, Express, Spring Boot<br><br>Frontend: Next.js, Tailwind CSS<br><br>Other: API security testing, API pentesting, Git, databases<br><br><br>When I’m not coding, I enjoy playing chess and learning about algorithms.<br>I also love Mathematics - especially pure math.
 
 
 ## 🌐 Socials:
