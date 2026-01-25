@@ -32,8 +32,6 @@ I’m a student and an aspiring software engineer. <br>When I’m not coding, I 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexmuthenya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmuthenya&layout=compact&theme=tokyonight&hide_border=true)
 
 
