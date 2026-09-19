@@ -1,5 +1,5 @@
 # 🌟Hello, my name is Alex Muthenya
-I’m a student and an aspiring software engineer. <br>When I’m not coding, I enjoy playing chess and learning about algorithms.<br>I also love Mathematics - especially pure math.
+ <br>When I’m not coding, I enjoy playing chess and learning about algorithms.<br>I also love Mathematics - especially pure math.
 
 
 ## 🌐 Socials:
